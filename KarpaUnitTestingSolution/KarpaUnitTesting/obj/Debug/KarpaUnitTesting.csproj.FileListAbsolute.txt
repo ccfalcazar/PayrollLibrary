@@ -1,0 +1,26 @@
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.csprojResolveAssemblyReference.cache
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\KarpaUnitTesting.dll
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\KarpaUnitTesting.pdb
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\Payroll.dll
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\Payroll.pdb
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.dll
+e:\caloyfiles\documents\visual studio 2015\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.pdb
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\KarpaUnitTesting.dll
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\KarpaUnitTesting.pdb
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\Payroll.pdb
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.csproj.CoreCompileInputs.cache
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.csproj.CopyComplete
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.dll
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.pdb
+\\agate-server\AGATE\My FIles\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.csproj.AssemblyReference.cache
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\KarpaUnitTesting.dll
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\KarpaUnitTesting.pdb
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\bin\Debug\Payroll.pdb
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.csproj.AssemblyReference.cache
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.csproj.CoreCompileInputs.cache
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.csproj.CopyComplete
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.dll
+D:\Projects\KarpaUnitTestingSolution\KarpaUnitTesting\obj\Debug\KarpaUnitTesting.pdb
